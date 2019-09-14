@@ -15,7 +15,7 @@ When the set time comes it will be announced.
 ## Usage
 
 ## Install
-
+bin → Release → Timer.exe
 ## Contribution
 
 ## Licence
